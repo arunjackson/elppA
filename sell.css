@@ -6,7 +6,7 @@
 
 body
 {
-   background-image: url('/Used Electronics/aplleimages/pexels-nao-triponez-129208.jpg');
+   background-image: url('./pexels-nao-triponez-129208.jpg');
      background-size: contain;
      background-repeat: no-repeat; 
      /* background-color:black; */
