@@ -30,7 +30,7 @@ color: black;
     background-image: url('/Used Electronics/aplleimages/pexels-nao-triponez-129208.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height:auto;
+    height:130vh;
     
 }
 nav
@@ -102,7 +102,7 @@ h1{
 /* buy macbook */
 .Mac
 {
-    height: auto;
+    height: 110vh;
 /* background-image: url('/Used Electronics/aplleimages/pexels-anni-roenkae-2693212.jpg');
 background-size: cover;
 background-repeat: no-repeat; */
@@ -464,6 +464,19 @@ ul
     background-color: rgba(62, 61, 61, 0.485);
 
 };
+.intro
+{
+    background-image: url('/Used Electronics/aplleimages/pexels-nao-triponez-129208.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    
+}
+.Mac
+{
+    height: 110vh;
+    }
+   
    
     
 }
